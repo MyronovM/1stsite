@@ -1,0 +1,99 @@
+.head{
+    line-height: 0;
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+body{
+    margin: 0;
+
+    background: url("https://www.imperiallighting.co.uk/custom/images/products/Black-drum-lamp-shade-with-silver-lining-swatch.jpg");
+
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #cdcdd9;
+    font-family:times new roman;
+}
+
+#logo{
+    color: azure;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 35%;
+
+}
+
+.nav-links a{
+    color: #042222;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.nav-links li{
+    list-style: none;
+}
+
+.card{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: white;
+    box-shadow: 0 5px 30px grey;
+    border-radius: 10px;
+}
+
+.card-photo{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.card-subtile{
+    font-size: 18px;
+    color: white;
+}
+
+.rights{
+    color: whitesmoke;
+    font-size: 10px;
+}
+
+.video-wrap{
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: white;
+    box-shadow: 0 5px 30px grey;
+    border-radius: 10px;
+}
+
+.image-center{
+    margin: 0px 450px 600px;
+}
+
+
